@@ -1,0 +1,3 @@
+#!/usr/bin/dh-exec
+
+src usr/src/fbtft-hx8347d-${DEB_VERSION}/
