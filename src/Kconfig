@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0
+config FB_TFT_HX8347D
+	tristate "FB driver for the HX8347D LCD Controller"
+	depends on FB_TFT
+	help
+	  Generic Framebuffer support for HX8347D
